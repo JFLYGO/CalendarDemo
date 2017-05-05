@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCalendar">
+        <attr name="calendarWidth" format="dimension"/>
+        <attr name="calendarHeight" format="dimension"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="calendarTitle" format="string"/>
+        <attr name="menuTextSize" format="string"/>
+    </declare-styleable>
+</resources>
